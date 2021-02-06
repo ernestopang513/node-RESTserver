@@ -11,10 +11,10 @@ process.env.NODE_ENV = process.env.NODE_ENV || 'dev';
 
 let urlDB;
 
-// if (process.env.NODE_ENV === 'dev') {
-//     urlDB = 'mongodb://localhost:27017/cafe2';
-// } else {
-urlDB = 'mongodb+srv://ernesto:RasxKoT3Gnvy0TZR@cluster0.fcexc.mongodb.net/cafe';
-// }
+if (process.env.NODE_ENV === 'dev') {
+    urlDB = 'mongodb://localhost:27017/cafe2';
+} else {
+    urlDB = 'mongodb+srv://ernesto:RasxKoT3Gnvy0TZR@cluster0.fcexc.mongodb.net/cafe';
+}
 
 process.env.URLDB = urlDB;
