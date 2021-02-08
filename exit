@@ -1,0 +1,29 @@
+[33mcommit e8ccd89ec10836fd5a361fdba2fac1eb1235e0d9[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ernesto Pang <ernestopang513@hotmail.com>
+Date:   Fri Feb 5 19:16:44 2021 -0600
+
+    Actuarlizacion con la variable de entorno en heroku
+
+[33mcommit 24ab602ecc8d9a10b62adca611ab652d5781e324[m
+Author: Ernesto Pang <ernestopang513@hotmail.com>
+Date:   Fri Feb 5 19:14:55 2021 -0600
+
+    Actualizacion de server.js
+
+[33mcommit f2661f0a1b7eefba4181f6848494b728744cb7ee[m[33m ([m[1;31mheroku/main[m[33m)[m
+Author: Ernesto Pang <ernestopang513@hotmail.com>
+Date:   Thu Feb 4 23:42:30 2021 -0600
+
+    RestServer - usuario
+
+[33mcommit 1fde663aad970d7a6fc55124cde5ce88b6f3808d[m
+Author: Ernesto Pang <ernestopang513@hotmail.com>
+Date:   Mon Jan 25 02:35:55 2021 -0600
+
+    start: node server/server.js
+
+[33mcommit fdc2aa2418e04159a9b5975d96b08b75fa042fc2[m[33m ([m[1;33mtag: v0.0.1[m[33m)[m
+Author: Ernesto Pang <ernestopang513@hotmail.com>
+Date:   Sun Jan 24 22:39:07 2021 -0600
+
+    Primer commit
